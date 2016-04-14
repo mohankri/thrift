@@ -1,13 +1,13 @@
 # thrift
-; Build Package
+## Build Package
 `$ mvn package`
 
-; Clean Package
+## Clean Package:
 `$ mvn clean`
 
-; Run Server
+## Run Server
 `java -jar timeserver/target/timeserver-1.0-SNAPSHOT.jar`
 
-; Run Client
+## Run Client
 `java -jar timeserver/target/timeclient-1.0-SNAPSHOT.jar`
 
