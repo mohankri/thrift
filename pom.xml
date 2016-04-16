@@ -28,6 +28,6 @@
 
   <modules>
     <module>timeclient</module>
-    <module>timeserver</module>
+    <module>timeserver</module> 
   </modules>
 </project>
